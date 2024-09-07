@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SportDB</string>
+    <string name="search_teams">Sport Team Search:</string>
+    <string name="team_name">Team Name</string>
+    <string name="search_button">Search</string>
+    <string name="game_history">Game History:</string>
+    <string name="empty_history">Search a Team for their last games</string>
+
+</resources>
