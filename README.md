@@ -4,11 +4,11 @@
  
  
 ## Screen Shots
-Start Menu <br />
+Start Menu 
 ![alt text](Readme-Pics/0Menu.jpg)
-Game History<br />
+Game History
 ![alt text](Readme-Pics/1History.jpg)
-Incorrect Name<br />
+Incorrect Name
 ![alt text](Readme-Pics/2Wrong.jpg)
 
 ## Built With
